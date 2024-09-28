@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "e5f24ef6c02b8d1c8b976906f29d7586f64eb808ad06ed579d13eeea73b31b6a"
+build_start_time: [1727275097, 919654000]
+build_end_time: [1727275107, 98701000]
+inputs:
+  ? "/Users/dianacouto/Documents/flutter/examples/hypereal_matrix/build/macos/Build/Intermediates.noindex/Runner.build/Release/Runner.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1727275097, 909773942]
+  "/Users/dianacouto/Documents/flutter/examples/hypereal_matrix/macos/Flutter/GeneratedPluginRegistrant.swift": [1727275057, 862413001]
+  "/Users/dianacouto/Documents/flutter/examples/hypereal_matrix/macos/Runner/AppDelegate.swift": [1726161493, 0]
+  "/Users/dianacouto/Documents/flutter/examples/hypereal_matrix/macos/Runner/MainFlutterWindow.swift": [1726161493, 0]

@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "dfb123114e42f5f511bd305d206372dfc1d7271d910b2fefb51014cd2b47e88b"
+build_start_time: [1727275061, 87210000]
+build_end_time: [1727275075, 663050000]
+inputs:
+  ? "/Users/dianacouto/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/PathProviderPlugin.swift"
+  : [1726935700, 426535074]
+  ? "/Users/dianacouto/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.0/darwin/path_provider_foundation/Sources/path_provider_foundation/messages.g.swift"
+  : [1726935700, 426970406]

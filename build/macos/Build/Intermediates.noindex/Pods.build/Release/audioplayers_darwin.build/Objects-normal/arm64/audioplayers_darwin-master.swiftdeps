@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.0 (swiftlang-6.0.0.9.10 clang-1600.0.26.2)"
+options: "1ef7b9ce0f919d86b180f55e47f46782d5e42a779355f3f71f745de4f6bc9120"
+build_start_time: [1727275061, 87209000]
+build_end_time: [1727275075, 680016000]
+inputs:
+  "/Users/dianacouto/.pub-cache/hosted/pub.dev/audioplayers_darwin-6.0.0/macos/Classes/AudioContext.swift": [1726951492, 997174417]
+  "/Users/dianacouto/.pub-cache/hosted/pub.dev/audioplayers_darwin-6.0.0/macos/Classes/SwiftAudioplayersDarwinPlugin.swift": [1726951492, 998088790]
+  "/Users/dianacouto/.pub-cache/hosted/pub.dev/audioplayers_darwin-6.0.0/macos/Classes/Utils.swift": [1726951492, 997583874]
+  "/Users/dianacouto/.pub-cache/hosted/pub.dev/audioplayers_darwin-6.0.0/macos/Classes/WrappedMediaPlayer.swift": [1726951492, 996804959]

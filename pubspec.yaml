@@ -1,0 +1,25 @@
+
+name: hypereal_matrix
+description: A matrix-style generative artwork with audio playback in Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  audioplayers: ^6.1.0  # Updated to match your lockfile
+  flutter_hooks: ^0.18.0  # For state management with hooks
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/1.mp3  # Make sure this is the path to your audio file
+
+

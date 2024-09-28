@@ -1,0 +1,20 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dianacouto/Documents/flutter/examples/hypereal_matrix/build/macos/Build/Products/Release/hypereal_matrix.app/Contents/MacOS/hypereal_matrix'
+relocations:
+  - { offset: 0xCA618, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000025D0, symSize: 0xFC }
+  - { offset: 0xCA74E, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix17MainFlutterWindowCMa', symObjAddr: 0x1B8, symBinAddr: 0x100002788, symSize: 0x20 }
+  - { offset: 0xCA762, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix24RegisterGeneratedPlugins8registryySo21FlutterPluginRegistry_p_tFTf4e_nSo0G14ViewControllerC_Tg5', symObjAddr: 0x1D8, symBinAddr: 0x1000027A8, symSize: 0x100 }
+  - { offset: 0xCA825, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix17MainFlutterWindowC12awakeFromNibyyFTo', symObjAddr: 0x0, symBinAddr: 0x1000025D0, symSize: 0xFC }
+  - { offset: 0xCA95E, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix17MainFlutterWindowC11contentRect9styleMask7backing5deferACSo6CGRectV_So013NSWindowStyleI0VSo18NSBackingStoreTypeVSbtcfcTo', symObjAddr: 0xFC, symBinAddr: 0x1000026CC, symSize: 0x8C }
+  - { offset: 0xCA9A3, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix17MainFlutterWindowCfD', symObjAddr: 0x188, symBinAddr: 0x100002758, symSize: 0x30 }
+  - { offset: 0xCAB1C, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x1000028A8, symSize: 0x8 }
+  - { offset: 0xCABAD, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x74, symBinAddr: 0x10000291C, symSize: 0x28 }
+  - { offset: 0xCABF7, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix11AppDelegateCMa', symObjAddr: 0x9C, symBinAddr: 0x100002944, symSize: 0x20 }
+  - { offset: 0xCAC44, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix11AppDelegateC47applicationShouldTerminateAfterLastWindowClosedySbSo13NSApplicationCFTo', symObjAddr: 0x0, symBinAddr: 0x1000028A8, symSize: 0x8 }
+  - { offset: 0xCAC71, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix11AppDelegateCACycfcTo', symObjAddr: 0x8, symBinAddr: 0x1000028B0, symSize: 0x3C }
+  - { offset: 0xCACAC, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix11AppDelegateCfD', symObjAddr: 0x44, symBinAddr: 0x1000028EC, symSize: 0x30 }
+  - { offset: 0xCAE46, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix19ResourceBundleClass33_EF6515F6355EEDF747338B15202E8418LLCfD', symObjAddr: 0x0, symBinAddr: 0x100002964, symSize: 0x10 }
+  - { offset: 0xCAE88, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix19ResourceBundleClass33_EF6515F6355EEDF747338B15202E8418LLCMa', symObjAddr: 0x10, symBinAddr: 0x100002974, symSize: 0x20 }
+  - { offset: 0xCAEA3, size: 0x8, addend: 0x0, symName: '_$s15hypereal_matrix19ResourceBundleClass33_EF6515F6355EEDF747338B15202E8418LLCfD', symObjAddr: 0x0, symBinAddr: 0x100002964, symSize: 0x10 }
+...
